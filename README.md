@@ -19,4 +19,4 @@ The system allows users to add, view, update, and delete student details.
 3. Follow the on-screen menu options to manage students.
 
 ## Output
-See output.png for example of program output.
+See student output.png for example of program output.
